@@ -9,8 +9,8 @@ import styled, {
 import { useIsDarkMode } from '../state/user/hooks'
 import { Text, TextProps } from 'rebass'
 import { Colors } from './styled'
-import lightPaws from'../assets/images/Light-Paws.png'
-import darkPaws from'../assets/images/Dark-Paws.png'
+import lightPaws from '../assets/images/Light-Paws.png'
+import darkPaws from '../assets/images/Dark-Paws.png'
 
 export * from './components'
 
