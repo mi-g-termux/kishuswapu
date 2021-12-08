@@ -321,7 +321,7 @@ export default function Header() {
           </UniIcon>
         </Title>
         <HeaderLinks>
-          <StyledNavLink as="a" href="https://kishu.finance/" target="_blank">
+          <StyledNavLink as="a" href="https://pizza.com/" target="_blank">
             Home
           </StyledNavLink>
           <StyledNavLink id={`swap-nav-link`} to={'/swap'}>
@@ -342,7 +342,7 @@ export default function Header() {
           </StyledNavLink>
           <StyledExternalLink
             id={`stake-nav-link`}
-            href={'https://www.dextools.io/app/uniswap/pair-explorer/0xf82d8ec196fb0d56c6b82a8b1870f09502a49f88'}
+            href={'https://www.dextools.io/app/ether/pair-explorer/0x811beed0119b4afce20d2583eb608c6f7af1954f'}
           >
             Chart <span style={{ fontSize: '11px' }}>↗</span>
           </StyledExternalLink>
@@ -376,7 +376,7 @@ export default function Header() {
                     </TYPE.white>
                   </HideSmall>
                 )}
-                Billions KISHU
+                TENSHI
               </KISHUAmount>
               <CardNoise />
             </KISHUWrapper>
